@@ -1,8 +1,11 @@
-# Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in nums.
+# Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place 
+# such that each unique element appears only once. The relative order of the elements should be kept the same. 
+# Then return the number of unique elements in nums.
 
 # Consider the number of unique elements of nums to be k, to get accepted, you need to do the following things:
 
-# Change the array nums such that the first k elements of nums contain the unique elements in the order they were present in nums initially. The remaining elements of nums are not important as well as the size of nums.
+# Change the array nums such that the first k elements of nums contain the unique elements in the order 
+# they were present in nums initially. The remaining elements of nums are not important as well as the size of nums.
 # Return k.
 # Custom Judge:
 
@@ -53,13 +56,23 @@ class Solution(object):
         current = 0
         while current < len(nums) - 1:
             if nums[current] == nums[current + 1]:
-                del nums[current + 1]  # Correctly remove the duplicate element
+                nums.remove(nums[current + 1])  # Correctly remove the duplicate element
             else:
                 current += 1  # Move to the next element only if no removal
 
         return len(nums)  # Return the new length of the list
 
 
+
+
+# solution = Solution()
+# nums = [0,0,0,0,0]
+# length = solution.removeDuplicates(nums)
+# print(length)  # Output should be 1
+# print(nums[:length])  # Output should be [0]
+                current += 1  # Move to the next element only if no removal
+
+        return len(nums)  # Return the new length of the list
 
 # solution = Solution()
 # nums = [0,0,0,0,0]
