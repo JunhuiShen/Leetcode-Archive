@@ -13,6 +13,7 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [removeDuplicates.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/removeDuplicates.py) - Remove Duplicates from Sorted Array
 3. [removeDuplicatesII.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/removeDuplicatesII.py) - Remove Duplicates from Sorted Array II
 4. [removeElement.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/removeElement.py) - Remove Element
+5. [majorityElement.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/majorityElement.py) - Majority Element
 
 ## String
 1. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - Valid Palindrome
