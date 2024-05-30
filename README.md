@@ -20,7 +20,8 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - Longest Substring Without Repeating Characters
 3. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - Reverse String
 4. [romanToInt.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/romanToInt.py) - Roman to Integer
-5. [mergeAlternatively.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeAlternatively.py) - Merge Alternately
+5. [mergeAlternatively.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeAlternatively.py) - Merge Strings Alternately
+6. [gcdOfStrings.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/gcdOfStrings.py)- Greatest Common Divisor of Strings
 
 ## Linked List
 1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - Add Two Numbers
