@@ -23,7 +23,8 @@ This repository is a comprehensive collection of my solutions to various problem
 3. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - Reverse String
 4. [romanToInt.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/romanToInt.py) - Roman to Integer
 5. [mergeAlternatively.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeAlternatively.py) - Merge Strings Alternately
-6. [gcdOfStrings.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/gcdOfStrings.py)- Greatest Common Divisor of Strings
+6. [gcdOfStrings.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/gcdOfStrings.py) - Greatest Common Divisor of Strings
+7. [reverseVowels.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/reverseVowels.py) - Reverse Vowels of a String
 
 ## Linked List
 1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - Add Two Numbers
