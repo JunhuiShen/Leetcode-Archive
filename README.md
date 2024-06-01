@@ -18,9 +18,7 @@ This repository is a comprehensive collection of my solutions to various problem
 7. [canPlaceFlowers.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/canPlaceFlowers.py) - Can Place Flowers
 
 ## String
-1. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - Valid Palindrome
 2. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - Longest Substring Without Repeating Characters
-3. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - Reverse String
 4. [romanToInt.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/romanToInt.py) - Roman to Integer
 5. [mergeAlternatively.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeAlternatively.py) - Merge Strings Alternately
 6. [gcdOfStrings.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/gcdOfStrings.py) - Greatest Common Divisor of Strings
@@ -32,3 +30,5 @@ This repository is a comprehensive collection of my solutions to various problem
 
 ## Math
 1. [twoSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/twoSum.py) - Two Sum
+2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - Reverse  Integer
+3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - Palindrome Number
