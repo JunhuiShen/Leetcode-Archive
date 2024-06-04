@@ -18,6 +18,7 @@ This repository is a comprehensive collection of my solutions to various problem
 7. [canPlaceFlowers.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/canPlaceFlowers.py) - Can Place Flowers
 8. [productExceptSelf.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/productExceptSelf.py) - Product of Array Except Self
 9. [increasingTriplet.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/increasingTriplet.py) - Increasing Triplet Subsequence
+10. [moveZeros.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/moveZeros.py) - Move Zeros
 
 ## String
 2. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - Longest Substring Without Repeating Characters
