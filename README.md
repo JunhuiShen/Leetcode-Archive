@@ -28,6 +28,7 @@ This repository is a comprehensive collection of my solutions to various problem
 7. [reverseVowels.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/reverseVowels.py) - Reverse Vowels of a String
 8. [reverseWords.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/reverseWords.py) - Reverse Words in a String
 9. [compress.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/compress.py) - String Compression
+10. [isSubsequence.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/isSubsequence.py) - Is Subsequence
 
 ## Linked List
 1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - Add Two Numbers
