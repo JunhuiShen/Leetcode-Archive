@@ -22,19 +22,19 @@ This repository is a comprehensive collection of my solutions to various problem
 11. [maxArea.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxArea.py) - Container With Most Water
 
 ## String
-2. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - Longest Substring Without Repeating Characters
-4. [romanToInt.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/romanToInt.py) - Roman to Integer
-5. [mergeAlternatively.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeAlternatively.py) - Merge Strings Alternately
-6. [gcdOfStrings.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/gcdOfStrings.py) - Greatest Common Divisor of Strings
-7. [reverseVowels.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/reverseVowels.py) - Reverse Vowels of a String
-8. [reverseWords.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/reverseWords.py) - Reverse Words in a String
-9. [compress.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/compress.py) - String Compression
-10. [isSubsequence.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/isSubsequence.py) - Is Subsequence
+1. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - Longest Substring Without Repeating Characters
+2. [romanToInt.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/romanToInt.py) - Roman to Integer
+3. [mergeAlternatively.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeAlternatively.py) - Merge Strings Alternately
+4. [gcdOfStrings.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/gcdOfStrings.py) - Greatest Common Divisor of Strings
+5. [reverseVowels.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/reverseVowels.py) - Reverse Vowels of a String
+6. [reverseWords.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/reverseWords.py) - Reverse Words in a String
+7. [compress.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/compress.py) - String Compression
+8. [isSubsequence.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/isSubsequence.py) - Is Subsequence
 
 ## Linked List
 1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - Add Two Numbers
 
 ## Math
 1. [twoSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/twoSum.py) - Two Sum
-2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - Reverse  Integer
+2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - Reverse Integer
 3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - Palindrome Number
