@@ -19,6 +19,7 @@ This repository is a comprehensive collection of my solutions to various problem
 8. [productExceptSelf.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/productExceptSelf.py) - Product of Array Except Self
 9. [increasingTriplet.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/increasingTriplet.py) - Increasing Triplet Subsequence
 10. [moveZeros.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/moveZeros.py) - Move Zeros
+11. [maxArea.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxArea.py) - Container With Most Water
 
 ## String
 2. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - Longest Substring Without Repeating Characters
