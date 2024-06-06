@@ -20,6 +20,7 @@ This repository is a comprehensive collection of my solutions to various problem
 9. [increasingTriplet.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/increasingTriplet.py) - Increasing Triplet Subsequence
 10. [moveZeros.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/moveZeros.py) - Move Zeros
 11. [maxArea.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxArea.py) - Container With Most Water
+12. [maxOperations.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxOperations.py) - Max Number of K-Sum Pairs
 
 ## String
 1. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - Longest Substring Without Repeating Characters
