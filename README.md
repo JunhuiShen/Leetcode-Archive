@@ -22,6 +22,9 @@ This repository is a comprehensive collection of my solutions to various problem
 11. [maxArea.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxArea.py) - Container With Most Water
 12. [maxOperations.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxOperations.py) - Max Number of K-Sum Pairs
 13. [findMaxAverage.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/findMaxAverage.py) - Maximum Average Subarray I
+14. [findMaxConsecutiveOnes.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/findMaxConsecutiveOnes.py) - Max Consecutive Ones
+15. [findMaxConsecutiveOnesII.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/findMaxConsecutiveOnesII.py) - Max Consecutive Ones II
+16. [longestOnes.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestOnes.py)  - Max Consecutive Ones III
 
 ## String
 1. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - Longest Substring Without Repeating Characters
