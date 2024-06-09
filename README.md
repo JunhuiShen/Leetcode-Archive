@@ -25,6 +25,7 @@ This repository is a comprehensive collection of my solutions to various problem
 14. [findMaxConsecutiveOnes.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/findMaxConsecutiveOnes.py) - Max Consecutive Ones
 15. [findMaxConsecutiveOnesII.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/findMaxConsecutiveOnesII.py) - Max Consecutive Ones II
 16. [longestOnes.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestOnes.py)  - Max Consecutive Ones III
+17. [longestSubarray.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestSubarray.py) - Longest Subarray of 1's After Deleting One Element
 
 ## String
 1. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - Longest Substring Without Repeating Characters
