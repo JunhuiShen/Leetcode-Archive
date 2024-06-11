@@ -51,4 +51,4 @@ This repository is a comprehensive collection of my solutions to various problem
 3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - Palindrome Number
 
 ## Hash Table
-1. [uniqueOccurance.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/uniqueOccurance.py) - Unique Number of Occurrences
+1. [uniqueOccurrence.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/uniqueOccurrence.py) - Unique Number of Occurrences
