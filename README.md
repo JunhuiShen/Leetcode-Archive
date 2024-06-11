@@ -7,6 +7,7 @@ This repository is a comprehensive collection of my solutions to various problem
 - [String](#string)
 - [Linked List](#linked-list)
 - [Math](#math)
+- [Hash Table](#hash-table)
 
 ## Array
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - Merge Sorted Array
@@ -48,3 +49,6 @@ This repository is a comprehensive collection of my solutions to various problem
 1. [twoSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/twoSum.py) - Two Sum
 2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - Reverse Integer
 3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - Palindrome Number
+
+## Hash Table
+1. [uniqueOccurance.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/uniqueOccurance.py) - Unique Number of Occurrences
