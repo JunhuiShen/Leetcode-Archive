@@ -4,10 +4,10 @@ This repository is a comprehensive collection of my solutions to various problem
 
 ## Table of Contents
 - [Array](#array)
-- [String](#string)
+- [Hash Table](#hash-table)
 - [Linked List](#linked-list)
 - [Math](#math)
-- [Hash Table](#hash-table)
+- [String](#string)
 
 ## Array
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - Merge Sorted Array
@@ -15,7 +15,7 @@ This repository is a comprehensive collection of my solutions to various problem
 3. [removeDuplicatesII.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/removeDuplicatesII.py) - Remove Duplicates from Sorted Array II
 4. [removeElement.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/removeElement.py) - Remove Element
 5. [majorityElement.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/majorityElement.py) - Majority Element
-6. [kidsWithCandies.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/kidsWithCandies.py) -  Kids With the Greatest Number of Candies
+6. [kidsWithCandies.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/kidsWithCandies.py) - Kids With the Greatest Number of Candies
 7. [canPlaceFlowers.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/canPlaceFlowers.py) - Can Place Flowers
 8. [productExceptSelf.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/productExceptSelf.py) - Product of Array Except Self
 9. [increasingTriplet.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/increasingTriplet.py) - Increasing Triplet Subsequence
@@ -25,11 +25,22 @@ This repository is a comprehensive collection of my solutions to various problem
 13. [findMaxAverage.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/findMaxAverage.py) - Maximum Average Subarray I
 14. [findMaxConsecutiveOnes.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/findMaxConsecutiveOnes.py) - Max Consecutive Ones
 15. [findMaxConsecutiveOnesII.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/findMaxConsecutiveOnesII.py) - Max Consecutive Ones II
-16. [longestOnes.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestOnes.py)  - Max Consecutive Ones III
+16. [longestOnes.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestOnes.py) - Max Consecutive Ones III
 17. [longestSubarray.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestSubarray.py) - Longest Subarray of 1's After Deleting One Element
 18. [largestAltitude.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/largestAltitude.py) - Find the Highest Altitude
 19. [pivotIndex.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/pivotIndex.py) - Find Pivot Index
 20. [findDifference.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/findDifference.py) - Find the Difference of Two Arrays
+
+## Hash Table
+1. [uniqueOccurrence.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/uniqueOccurrence.py) - Unique Number of Occurrences
+
+## Linked List
+1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - Add Two Numbers
+
+## Math
+1. [twoSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/twoSum.py) - Two Sum
+2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - Reverse Integer
+3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - Palindrome Number
 
 ## String
 1. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - Longest Substring Without Repeating Characters
@@ -41,14 +52,3 @@ This repository is a comprehensive collection of my solutions to various problem
 7. [compress.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/compress.py) - String Compression
 8. [isSubsequence.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/isSubsequence.py) - Is Subsequence
 9. [maxVowels.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxVowels.py) - Maximum Number of Vowels in a Substring of Given Length
-
-## Linked List
-1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - Add Two Numbers
-
-## Math
-1. [twoSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/twoSum.py) - Two Sum
-2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - Reverse Integer
-3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - Palindrome Number
-
-## Hash Table
-1. [uniqueOccurrence.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/uniqueOccurrence.py) - Unique Number of Occurrences
