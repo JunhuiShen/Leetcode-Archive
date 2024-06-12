@@ -34,6 +34,7 @@ This repository is a comprehensive collection of my solutions to various problem
 ## Hash Table
 1. [uniqueOccurrence.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/uniqueOccurrence.py) - Unique Number of Occurrences
 2. [closeStrings,py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/closeStrings.py) - Determine if Two Strings Are Close
+3. [equalPairs.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/equalPairs.py) - Equal Row and Column Pairs
 
 ## Linked List
 1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - Add Two Numbers
