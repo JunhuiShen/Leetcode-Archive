@@ -7,6 +7,7 @@ This repository is a comprehensive collection of my solutions to various problem
 - [Hash Table](#hash-table)
 - [Linked List](#linked-list)
 - [Math](#math)
+- [Stack](#stack)
 - [String](#string)
 
 ## Array
