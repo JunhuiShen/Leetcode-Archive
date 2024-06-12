@@ -40,13 +40,13 @@ This repository is a comprehensive collection of my solutions to various problem
 ## Linked List
 1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
-## Stack
-1. [removeStars.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/removeStars.py) - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
-
 ## Math
 1. [twoSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/twoSum.py) - [Two Sum](https://leetcode.com/problems/two-sum/)
 2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
+## Stack
+1. [removeStars.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/removeStars.py) - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 
 ## String
 1. [lengthOfLongestSubstring.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lengthOfLongestSubstring.py) - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
