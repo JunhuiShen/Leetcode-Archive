@@ -59,6 +59,7 @@ This repository is a comprehensive collection of my solutions to various problem
 ## Stack
 1. [removeStars.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/removeStars.py) - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 2. [asteroidCollision.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/asteroidCollision.py) - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+3. [decodeString.py](./decodeString.py) - [Decode String](https://leetcode.com/problems/decode-string/)
 
 ## String Manipulation
 1. [romanToInt.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/romanToInt.py) - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
