@@ -10,6 +10,7 @@ This repository is a comprehensive collection of my solutions to various problem
 - [Sliding Window](#sliding-window)
 - [Linked List](#linked-list)
 - [Math](#math)
+- [Queue](#queue)
 - [Stack](#stack)
 - [String Manipulation](#string-manipulation)
 
@@ -55,6 +56,9 @@ This repository is a comprehensive collection of my solutions to various problem
 1. [twoSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/twoSum.py) - [Two Sum](https://leetcode.com/problems/two-sum/)
 2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
+## Queue
+1. [predictPartyVictory.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/predictPartyVictory.py) - [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
 
 ## Stack
 1. [removeStars.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/removeStars.py) - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
