@@ -54,6 +54,7 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [middleNode.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/middleNode.py) - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 3. [deleteMiddle.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/deleteMiddle.py) - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 4. [oddEvenList.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/oddEvenList.py) - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
+5. [reverseList.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverseList.py) - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 ## Math
 1. [twoSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/twoSum.py) - [Two Sum](https://leetcode.com/problems/two-sum/)
