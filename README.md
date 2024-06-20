@@ -13,6 +13,7 @@ This repository is a comprehensive collection of my solutions to various problem
 - [Queue](#queue)
 - [Stack](#stack)
 - [String Manipulation](#string-manipulation)
+- [Tree](#Tree)
 
 ## Sorting and Searching
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
@@ -79,3 +80,7 @@ This repository is a comprehensive collection of my solutions to various problem
 5. [reverseWords.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/reverseWords.py) - [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 6. [compress.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/compress.py) - [String Compression](https://leetcode.com/problems/string-compression/)
 7. [isSubsequence.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/isSubsequence.py) - [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+
+## Tree
+1. [maxDepth.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxDepth.py) - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+2. [leafSimilar.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/leafSimilar.py) - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
