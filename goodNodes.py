@@ -42,16 +42,23 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        def dfs(node, max_so_far):  
-            nonlocal num_good_nodes  
-            if node is None: 
-                return  
-            if node.val >= max_so_far:  
-                num_good_nodes += 1  
+        # Define a helper function to perform depth-first search and count good nodes  
+        def dfs(node, max_so_far):    
+            # If the current node is None (end of a branch), return 0 good nodes  
+            if node is None:   
+                return 0  
+            # If the value of the current node is greater than or equal to the max_so_far, it's a good node  
+            count = 0  
+            if node.val >= max_so_far:    
+                count += 1  
+            # Update the max_so_far value for the current subtree  
             max_so_far = max(node.val, max_so_far)  
-            dfs(node.right, max_so_far)  
-            dfs(node.left, max_so_far)  
-              
-        num_good_nodes = 0  
-        dfs(root, float("-inf"))  
-        return num_good_nodes
+            # Recursively count good nodes in the right and left subtrees, and add them to the count  
+            count += dfs(node.right, max_so_far)  
+            count += dfs(node.left, max_so_far)  
+            # Return the total count of good nodes in the current subtree
+            return count  
+
+        # Start the depth-first search from the root node with an initial max_so_far value of negative infinity  
+        # This ensures that all nodes will be considered as good nodes when compared against the initial value  
+        return dfs(root, float("-inf"))  
