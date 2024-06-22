@@ -84,3 +84,4 @@ This repository is a comprehensive collection of my solutions to various problem
 ## Tree
 1. [maxDepth.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxDepth.py) - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 2. [leafSimilar.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/leafSimilar.py) - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+3. [goodNodes.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/goodNodes.py) - [Count Good Nodes in Binary Tree] (https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
