@@ -13,7 +13,7 @@ This repository is a comprehensive collection of my solutions to various problem
 - [Queue](#queue)
 - [Stack](#stack)
 - [String Manipulation](#string-manipulation)
-- [Tree](#Tree)
+- [Tree](#tree)
 
 ## Sorting and Searching
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
@@ -85,3 +85,5 @@ This repository is a comprehensive collection of my solutions to various problem
 1. [maxDepth.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxDepth.py) - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 2. [leafSimilar.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/leafSimilar.py) - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
 3. [goodNodes.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/goodNodes.py) - [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+4. [hasPathSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/hasPathSum.py) - [Path Sum](https://leetcode.com/problems/path-sum/)
+5. [PathSumpy](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/PathSum.py) - [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
