@@ -86,4 +86,5 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [leafSimilar.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/leafSimilar.py) - [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
 3. [goodNodes.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/goodNodes.py) - [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 4. [hasPathSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/hasPathSum.py) - [Path Sum](https://leetcode.com/problems/path-sum/)
-5. [PathSumpy](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/PathSum.py) - [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+5. [PathSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/PathSum.py) - [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+6. [PathSumiii.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/PathSumiii.py) - [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
