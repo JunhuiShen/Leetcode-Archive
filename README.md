@@ -88,3 +88,4 @@ This repository is a comprehensive collection of my solutions to various problem
 4. [hasPathSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/hasPathSum.py) - [Path Sum](https://leetcode.com/problems/path-sum/)
 5. [PathSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/PathSum.py) - [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 6. [PathSumiii.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/PathSumiii.py) - [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+7. [longestZigZag.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/longestZigZag.py) - [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
