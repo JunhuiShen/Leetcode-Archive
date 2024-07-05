@@ -91,4 +91,5 @@ This repository is a comprehensive collection of my solutions to various problem
 7. [longestZigZag.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/longestZigZag.py) - [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
 8. [lowestCommonAncestor.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lowestCommonAncestor.py) - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 9. [lowestCommonAncestorii.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lowestCommonAncestorii.py) - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+10. [rightSideView.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/rightSideView.py) - [ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
    
