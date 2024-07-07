@@ -92,5 +92,6 @@ This repository is a comprehensive collection of my solutions to various problem
 8. [lowestCommonAncestor.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lowestCommonAncestor.py) - [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 9. [lowestCommonAncestorii.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/lowestCommonAncestorii.py) - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 10. [rightSideView.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/rightSideView.py) - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
-11. [maxLevelSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxLevelSum.py) - [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/binary-tree-right-side-view/)
+11. [maxLevelSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxLevelSum.py) - [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
+12. [searchBST.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/searchBST.py) - [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
    
