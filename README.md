@@ -14,6 +14,7 @@ This repository is a comprehensive collection of my solutions to various problem
 - [Stack](#stack)
 - [String Manipulation](#string-manipulation)
 - [Tree](#tree)
+- [Graph](#graph)
 
 ## Sorting and Searching
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
@@ -95,4 +96,6 @@ This repository is a comprehensive collection of my solutions to various problem
 11. [maxLevelSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxLevelSum.py) - [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
 12. [searchBST.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/searchBST.py) - [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 13. [deleteNode.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/deleteNode.py) - [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
-   
+
+## Graph
+1. [canVisitAllRooms.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/canVisitAllRooms.py) - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
