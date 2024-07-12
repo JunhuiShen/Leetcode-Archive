@@ -99,3 +99,6 @@ This repository is a comprehensive collection of my solutions to various problem
 
 ## Graph
 1. [canVisitAllRooms.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/canVisitAllRooms.py) - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+2. [findCircleNum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/findCircleNum.py) - [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+3. [minReorder.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/minReorder.py)-[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
+4. [calcEquation.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/calcEquation.py) - [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
