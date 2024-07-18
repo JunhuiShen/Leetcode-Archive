@@ -27,6 +27,7 @@ This repository is a comprehensive collection of my solutions to various problem
 8. [longestOnes.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestOnes.py) - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 9. [longestSubarray.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestSubarray.py) - [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 10. [largestAltitude.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/largestAltitude.py) - [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
+11. [fingKthLargest.py]https://github.com/JunhuiShen/Leetcode-Archive/blob/main/fingKthLargest.py.py) - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
 ## Array Manipulation
 1. [productExceptSelf.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/productExceptSelf.py) - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
