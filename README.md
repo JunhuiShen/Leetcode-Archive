@@ -15,6 +15,7 @@ This repository is a comprehensive collection of my solutions to various problem
 - [String Manipulation](#string-manipulation)
 - [Tree](#tree)
 - [Graph](#graph)
+- [Heap](#heap)
 
 ## Sorting and Searching
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
@@ -105,3 +106,6 @@ This repository is a comprehensive collection of my solutions to various problem
 4. [calcEquation.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/calcEquation.py) - [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 5. [nearestExit.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/nearestExit.py) - [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 6. [orangeRotting.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/orangeRotting.py) - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+
+## Heap
+1. [popSmallest.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/popSmallest.py) - [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)
