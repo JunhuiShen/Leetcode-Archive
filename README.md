@@ -109,3 +109,4 @@ This repository is a comprehensive collection of my solutions to various problem
 
 ## Heap
 1. [popSmallest.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/popSmallest.py) - [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)
+2. [maxScore.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxScore.py) - [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
