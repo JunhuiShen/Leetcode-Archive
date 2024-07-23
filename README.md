@@ -16,6 +16,7 @@ This repository is a comprehensive collection of my solutions to various problem
 - [Tree](#tree)
 - [Graph](#graph)
 - [Heap](#heap)
+- [Binary Search](#binary-search)
 
 ## Sorting and Searching
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
@@ -111,3 +112,6 @@ This repository is a comprehensive collection of my solutions to various problem
 1. [popSmallest.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/popSmallest.py) - [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)
 2. [maxScore.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxScore.py) - [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
 3. [totalCost.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/totalCost.py) - [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)
+
+## Binary Search
+1. [guessNumber.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/guessNumber.py) - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
