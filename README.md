@@ -116,3 +116,4 @@ This repository is a comprehensive collection of my solutions to various problem
 ## Binary Search
 1. [guessNumber.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/guessNumber.py) - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 2. [successfulPairs.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/successfulPairs.py) - [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
+3. [findPeakElement.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/findPeakElement.py) - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
