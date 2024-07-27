@@ -43,6 +43,7 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [closeStrings.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/closeStrings.py) - [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)
 3. [equalPairs.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/equalPairs.py) - [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)
 4. [majorityElement.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/majorityElement.py) - [Majority Element](https://leetcode.com/problems/majority-element/description/)
+5. [letterCombinations.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/letterCombinations.py) - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
 ## Two Pointers
 1. [maxOperations.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxOperations.py) - [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
