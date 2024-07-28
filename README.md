@@ -37,6 +37,7 @@ This repository is a comprehensive collection of my solutions to various problem
 3. [maxArea.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxArea.py) - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 4. [pivotIndex.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/pivotIndex.py) - [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 5. [findDifference.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/findDifference.py) - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
+6. [combinationSum.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/combinationSum.py) - [Combination Sum](https://leetcode.com/problems/combination-sum/)
 
 ## Hashing
 1. [uniqueOccurrence.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/uniqueOccurrence.py) - [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
