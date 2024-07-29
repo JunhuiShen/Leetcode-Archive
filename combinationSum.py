@@ -29,24 +29,29 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         result = []
-        candidates.sort()
+        candidates.sort()  # Sort candidates to facilitate the early stopping condition
 
-        def backtrack(remain,comb,start):
+        def backtrack(remain, comb, start):
+            # Base case: if remain is 0, add the current combination to the result
             if remain == 0:
                 result.append(list(comb))
-            
-            if remain < 0:
                 return
             
-            for i in range(start,len(candidates)):
+            # Iterate through the candidates starting from the 'start' index
+            for i in range(start, len(candidates)):
                 current = candidates[i]
+                # If the current candidate is greater than the remaining sum, stop further exploration
                 if current > remain:
                     return
                 
+                # Include the current candidate in the combination
                 comb.append(current)
-                backtrack(remain-current,comb,i)
+                # Recurse with the updated remaining sum and the same start index (allowing reuse of the same element)
+                backtrack(remain - current, comb, i)
+                # Backtrack by removing the last added candidate
                 comb.pop()
         
-        backtrack(target,[],0)
-
+        # Start the backtracking with the target sum, empty combination, and starting index 0
+        backtrack(target, [], 0)
         return result
+
