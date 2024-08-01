@@ -53,7 +53,8 @@ This repository is a comprehensive collection of my solutions to various problem
 
 ## Dynamic Programming
 1. [tribonacci.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/tribonacci.py) - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
-
+2. [minCostClimbingStairs.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/minCostClimbingStairs.py) - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+3. [rob.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/rob.py) - [House Robber](https://leetcode.com/problems/house-robber/)
 ## Graph
 ### DFS
 1. [canVisitAllRooms.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/canVisitAllRooms.py) - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
