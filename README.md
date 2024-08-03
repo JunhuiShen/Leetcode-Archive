@@ -7,21 +7,23 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [Backtracking](#backtracking)
 3. [Binary Search](#binary-search)
 4. [Dynamic Programming](#dynamic-programming)
-5. [Graph](#graph)
+    - [1D](#1d)
+    - [Multi-D](#multi-d)
+6. [Graph](#graph)
     - [DFS](#dfs-1)
     - [BFS](#bfs-1)
-6. [Hashing](#hashing)
-7. [Heap](#heap)
-8. [Linked List](#linked-list)
-9. [Math](#math)
-10. [Queue](#queue)
-11. [Sliding Window](#sliding-window)
-12. [Stack](#stack)
-13. [String Manipulation](#string-manipulation)
-14. [Tree](#tree)
+7. [Hashing](#hashing)
+8. [Heap](#heap)
+9. [Linked List](#linked-list)
+10. [Math](#math)
+11. [Queue](#queue)
+12. [Sliding Window](#sliding-window)
+13. [Stack](#stack)
+14. [String Manipulation](#string-manipulation)
+15. [Tree](#tree)
     - [DFS](#dfs)
     - [BFS](#bfs)
-15. [Two Pointers](#two-pointers)
+16. [Two Pointers](#two-pointers)
 
 ## Arrays and Strings
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
@@ -52,9 +54,15 @@ This repository is a comprehensive collection of my solutions to various problem
 4. [minEatingSpeed.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/minEatingSpeed.py) - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 ## Dynamic Programming
+### 1D
 1. [tribonacci.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/tribonacci.py) - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 2. [minCostClimbingStairs.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/minCostClimbingStairs.py) - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 3. [rob.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/rob.py) - [House Robber](https://leetcode.com/problems/house-robber/)
+4. [numTilings.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/numTilings.py) - [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling)
+
+### Multi-D
+1. [uniquePaths.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main//uniquePaths.py) - [Unique Paths](https://leetcode.com/problems/unique-paths/)
+
 ## Graph
 ### DFS
 1. [canVisitAllRooms.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/canVisitAllRooms.py) - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
