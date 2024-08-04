@@ -62,6 +62,7 @@ This repository is a comprehensive collection of my solutions to various problem
 
 ### Multi-D
 1. [uniquePaths.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main//uniquePaths.py) - [Unique Paths](https://leetcode.com/problems/unique-paths/)
+2. [longestCommonSubsequence.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestCommonSubsequence.py) - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
 ## Graph
 ### DFS
