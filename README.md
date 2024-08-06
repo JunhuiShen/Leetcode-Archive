@@ -62,7 +62,9 @@ This repository is a comprehensive collection of my solutions to various problem
 
 ### Multi-D
 1. [uniquePaths.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main//uniquePaths.py) - [Unique Paths](https://leetcode.com/problems/unique-paths/)
-2. [longestCommonSubsequence.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestCommonSubsequence.py) - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+2. [longestCommonSubsequence.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/longestCommonSubsequence.py) - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) 
+3. [maxProfit.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxProfit.py) - [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+4. [minDistance.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/minDistance.py) - [Edit Distance](https://leetcode.com/problems/edit-distance/)
 
 ## Graph
 ### DFS
