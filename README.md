@@ -6,7 +6,8 @@ This repository is a comprehensive collection of my solutions to various problem
 1. [Arrays and Strings](#arrays-and-strings)
 2. [Backtracking](#backtracking)
 3. [Binary Search](#binary-search)
-4. [Dynamic Programming](#dynamic-programming)
+4. [Bit Manipulation](#bit-manipulation)
+5. [Dynamic Programming](#dynamic-programming)
     - [1D](#1d)
     - [Multi-D](#multi-d)
 6. [Graph](#graph)
@@ -52,6 +53,9 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [successfulPairs.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/successfulPairs.py) - [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 3. [findPeakElement.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/findPeakElement.py) - [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 4. [minEatingSpeed.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/minEatingSpeed.py) - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+
+## Bit Manipulation
+1. [countBits.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/countBits.py) - [Counting Bits](https://leetcode.com/problems/counting-bits/)
 
 ## Dynamic Programming
 ### 1D
