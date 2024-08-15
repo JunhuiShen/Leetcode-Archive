@@ -15,16 +15,18 @@ This repository is a comprehensive collection of my solutions to various problem
     - [BFS](#bfs-1)
 7. [Hashing](#hashing)
 8. [Heap](#heap)
-9. [Linked List](#linked-list)
-10. [Math](#math)
-11. [Queue](#queue)
-12. [Sliding Window](#sliding-window)
-13. [Stack](#stack)
-14. [String Manipulation](#string-manipulation)
-15. [Tree](#tree)
+9.  [Intervals](#intervals)
+10. [Linked List](#linked-list)
+11. [Math](#math)
+12. [Queue](#queue)
+13. [Sliding Window](#sliding-window)
+14. [Stack](#stack)
+15. [String Manipulation](#string-manipulation)
+16. [Tree](#tree)
     - [DFS](#dfs)
     - [BFS](#bfs)
-16. [Two Pointers](#two-pointers)
+17. [Trie](#trie)
+18. [Two Pointers](#two-pointers)
 
 ## Arrays and Strings
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
@@ -56,6 +58,8 @@ This repository is a comprehensive collection of my solutions to various problem
 
 ## Bit Manipulation
 1. [countBits.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/countBits.py) - [Counting Bits](https://leetcode.com/problems/counting-bits/)
+2. [singleNumber.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/singleNumber.py) - [Single Number](https://leetcode.com/problems/single-number/)
+3. [minFlips.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/minFlips.py) - [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 
 ## Dynamic Programming
 ### 1D
@@ -95,6 +99,9 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [maxScore.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxScore.py) - [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
 3. [totalCost.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/totalCost.py) - [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)
 
+### Intervals
+1. [eraseOverlapIntervals.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/eraseOverlapIntervals.py) - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+2. [findMinArrowShots.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/findMinArrowShots.py) - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 ## Linked List
 1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 2. [middleNode.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/middleNode.py) - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
@@ -152,6 +159,10 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [maxLevelSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxLevelSum.py) - [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
 3. [searchBST.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/searchBST.py) - [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 4. [deleteNode.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/deleteNode.py) - [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+
+### Trie
+1. [trie.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/trie.py) - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+2. [suggestedProducts.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/suggestedProducts.py) - [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
 ## Two Pointers
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
