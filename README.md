@@ -18,15 +18,16 @@ This repository is a comprehensive collection of my solutions to various problem
 9.  [Intervals](#intervals)
 10. [Linked List](#linked-list)
 11. [Math](#math)
-12. [Queue](#queue)
-13. [Sliding Window](#sliding-window)
-14. [Stack](#stack)
-15. [String Manipulation](#string-manipulation)
-16. [Tree](#tree)
+12. [Monotonic Stack](#monotonic-stack)
+13. [Queue](#queue)
+14. [Sliding Window](#sliding-window)
+15. [Stack](#stack)
+16. [String Manipulation](#string-manipulation)
+17. [Tree](#tree)
     - [DFS](#dfs)
     - [BFS](#bfs)
-17. [Trie](#trie)
-18. [Two Pointers](#two-pointers)
+18. [Trie](#trie)
+19. [Two Pointers](#two-pointers)
 
 ## Arrays and Strings
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
@@ -114,6 +115,9 @@ This repository is a comprehensive collection of my solutions to various problem
 1. [twoSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/twoSum.py) - [Two Sum](https://leetcode.com/problems/two-sum/)
 2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
+## Monotonic Stack
+1. [dailyTemperatures.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/dailyTemperatures.py) - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
 ## Queue
 1. [predictPartyVictory.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/predictPartyVictory.py) - [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
