@@ -118,6 +118,7 @@ This repository is a comprehensive collection of my solutions to various problem
 
 ## Monotonic Stack
 1. [dailyTemperatures.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/dailyTemperatures.py) - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+2. [StockSpanner.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/StockSpanner.py) - [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 
 ## Queue
 1. [predictPartyVictory.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/predictPartyVictory.py) - [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
