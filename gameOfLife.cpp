@@ -17,8 +17,8 @@ public:
 
         vector<vector<int>> oldBoard = board;
 
-        for (int r = 0; r < rows; r++){
-            for (int c = 0; c < cols; c++){
+        for (int r = 0; r < rows; r++) {
+            for (int c = 0; c < cols; c++) {
                 int live_neighbors = 0;
 
                 // Count live neighbors
@@ -34,15 +34,9 @@ public:
 
                 // Apply rules
                 if (oldBoard[r][c] == 1) {
-                    if (live_neighbors < 2 or live_neighbors > 3)
-                        board[r][c] = 0;
-                    else
-                        board[r][c] = 1;
+                    board[r][c] = (live_neighbors == 2 || live_neighbors == 3) ? 1 : 0;
                 } else {
-                    if (live_neighbors == 3)
-                        board[r][c] = 1;
-                    else
-                        board[r][c] = 0;
+                        board[r][c] = (live_neighbors == 3) ? 1 : 0;
                 }
             }
         }
