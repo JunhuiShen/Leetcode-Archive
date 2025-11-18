@@ -3,16 +3,17 @@
 This repository is a comprehensive collection of my solutions to various problems found on [Leetcode](https://leetcode.com/problemset/). It serves as a personal archive and a study tool for practicing and refining my coding skills.
 
 ## Table of Contents
+
 1. [Arrays and Strings](#arrays-and-strings)
 2. [Backtracking](#backtracking)
 3. [Binary Search](#binary-search)
 4. [Bit Manipulation](#bit-manipulation)
 5. [Dynamic Programming](#dynamic-programming)
-   - [1D](#1d)
-   - [Multi-D](#multi-d)
+    * [1D](#1d)
+    * [Multi-D](#multi-d)
 6. [Graph](#graph)
-   - [DFS](#dfs-1)
-   - [BFS](#bfs-1)
+    * [DFS](#dfs-1)
+    * [BFS](#bfs-1)
 7. [Hashing](#hashing)
 8. [Heap](#heap)
 9. [Intervals](#intervals)
@@ -25,10 +26,11 @@ This repository is a comprehensive collection of my solutions to various problem
 16. [Stack](#stack)
 17. [String Manipulation](#string-manipulation)
 18. [Tree](#tree)
-   - [DFS](#dfs)
-   - [BFS](#bfs)
+    * [DFS](#dfs)
+    * [BFS](#bfs)
 19. [Trie](#trie)
 20. [Two Pointers](#two-pointers)
+
 
 ## Arrays and Strings
 1. [mergeSortedArray.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeSortedArray.py) - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
