@@ -103,9 +103,10 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [maxScore.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/maxScore.py) - [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
 3. [totalCost.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/totalCost.py) - [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)
 
-### Intervals
+## Intervals
 1. [eraseOverlapIntervals.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/eraseOverlapIntervals.py) - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 2. [findMinArrowShots.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/findMinArrowShots.py) - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+   
 ## Linked List
 1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 2. [middleNode.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/middleNode.py) - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
