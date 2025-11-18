@@ -96,6 +96,7 @@ This repository is a comprehensive collection of my solutions to various problem
 6. [maxOperations.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/maxOperations.py) - [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 7. [letterCombinations.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/letterCombinations.py) - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 8. [canConstruct.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/canConstruct.py) - [Ransom Note](https://leetcode.com/problems/ransom-note/)
+9. [isIsomorphic.cpp](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/isIsomorphic.cpp) - [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
 ## Heap
 1. [popSmallest.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/popSmallest.py) - [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)
