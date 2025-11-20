@@ -109,6 +109,7 @@ This repository is a comprehensive collection of my solutions to various problem
 1. [eraseOverlapIntervals.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/eraseOverlapIntervals.py) - [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 2. [findMinArrowShots.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/findMinArrowShots.py) - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 3. [summaryRanges.cpp](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/summaryRanges.cpp) - [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+4. [mergeIntervals.cpp](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/mergeIntervals.cpp) - [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
    
 ## Linked List
 1. [addTwoNumbers.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/addTwoNumbers.py) - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
