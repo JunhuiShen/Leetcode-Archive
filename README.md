@@ -53,6 +53,7 @@ This repository is a comprehensive collection of my solutions to various problem
 1. [combinationSum.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/combinationSum.py) - [Combination Sum](https://leetcode.com/problems/combination-sum/)
 2. [combinationSum3.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/combinationSum3.py) - [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 3. [letterCombinations.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/letterCombinations.py) - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+4. [permute.cpp](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/permute.cpp) - [Permutations](https://leetcode.com/problems/permutations/)
 
 ## Binary Search
 1. [guessNumber.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/guessNumber.py) - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
