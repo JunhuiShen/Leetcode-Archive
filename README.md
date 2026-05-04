@@ -124,6 +124,7 @@ This repository is a comprehensive collection of my solutions to various problem
 1. [twoSum.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/twoSum.py) - [Two Sum](https://leetcode.com/problems/two-sum/)
 2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+4. [myPow.cpp](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/myPow.cpp) - [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 
 ## Matrix
 1. [isValidSudoku.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/isValidSudoku.py) - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
