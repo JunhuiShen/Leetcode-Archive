@@ -126,6 +126,7 @@ This repository is a comprehensive collection of my solutions to various problem
 2. [reverse.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/reverse.py) - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 3. [isPalindrome.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/isPalindrome.py) - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 4. [myPow.cpp](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/myPow.cpp) - [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+5. [divide.cpp](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/divide.cpp) - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 
 ## Matrix
 1. [isValidSudoku.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/isValidSudoku.py) - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
