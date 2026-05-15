@@ -17,6 +17,10 @@
 
 // 1 <= n <= 20
 
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
