@@ -131,6 +131,7 @@ This repository is a comprehensive collection of my solutions to various problem
 ## Matrix
 1. [isValidSudoku.py](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/isValidSudoku.py) - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 2. [gameOfLife.cpp](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/gameOfLife.cpp) - [Game of Life](https://leetcode.com/problems/game-of-life/)
+3. [generateMatrix.cpp](https://github.com/JunhuiShen/Leetcode-Archive/blob/main/generateMatrix.cpp) - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 
 ## Monotonic Stack
 1. [dailyTemperatures.py](https://github.com/JunhuiShen/My-Leetcode-Codes/blob/main/dailyTemperatures.py) - [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
